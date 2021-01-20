@@ -6,6 +6,7 @@ public class Application {
 		// TODO Auto-generated method stub
 		Menu menu = new Menu();
 		menu.start();
+		System.out.println("I made a change.");
 		
 	}
 
