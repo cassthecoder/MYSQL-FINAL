@@ -25,6 +25,6 @@ public class DBConnection {
 				e.printStackTrace();
 			}
 		}
-		return DBConnection.connection;
+		return DBConnection.connection;   // created update
 	}
 }
