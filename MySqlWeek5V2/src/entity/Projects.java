@@ -9,6 +9,7 @@ public class Projects {
 	
 	public Projects(String projName) {
 		this.projName = projName;
+		System.out.println("Also printing some message.");
 	}
 
 }
